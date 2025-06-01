@@ -1,0 +1,6 @@
+modelo-versao-id: 16356
+path: https://sinapses-backend-web.ia.pje.jus.br
+senha: senha
+tentativas-reconexao: 10
+timeout-conexao: 99
+usuario: 'CPF00000099'
