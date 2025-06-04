@@ -6,7 +6,7 @@ from config import login, senha
 url_auth = "https://sinapses-backend.ia.pje.jus.br/rest/usuario/autenticarUsuario"
 
 # URL da API para a chamada seguinte
-url_api = "https://sinapses-backend.ia.pje.jus.br/rest/modelo/executarServico/%2Ftrf2/GEN_REVISOR_INTELIGENTE_CSF/2"
+url_api = "https://sinapses-backend.ia.pje.jus.br/rest/modelo/executarServico/-trf2/GEN_REVISOR_INTELIGENTE_CSF/2"
 
 # Payload para autenticação
 payload_auth = {
